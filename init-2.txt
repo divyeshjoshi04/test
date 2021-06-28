@@ -1,2 +1,4 @@
 Hii, I'm init 2 file creation How are you ?
 dfggfhsd
+
+I newly added content to check git diff command
